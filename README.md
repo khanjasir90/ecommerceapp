@@ -17,6 +17,7 @@ Flutter based ecommerce app with minimal features.
 - **Filters:** Refine product searches by various criteria [Price, Availabitlity Status, Review, Rating].
 - **Search:** Easily locate products with a robust search functionality.
 - **Product Details View:** Detailed information on individual products to aid decision-making.
+- **Revamped UI:** Revamped UI to show more details on screen.
 
 ## Setup and Running the Project
 
