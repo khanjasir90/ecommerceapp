@@ -19,13 +19,19 @@ Flutter based ecommerce app with minimal features.
 - **Product Details View:** Detailed information on individual products to aid decision-making.
 - **Revamped UI:** Revamped UI to show more details on screen.
 
+## Video
+
+https://github.com/user-attachments/assets/d91e12df-215a-4c52-af83-dd3b7b8136d7
+
 ## Setup and Running the Project
 
 To get started with the Ecommerce App, follow these steps:
 
 ### Prerequisites
 
-1. **Flutter SDK:** Ensure you have Flutter installed. You can download it from [Flutter's official website](https://flutter.dev/docs/get-started/install).
+1. **Flutter SDK:** Ensure you have Flutter installed. You can download it from [Flutter's official website](https://flu
+
+tter.dev/docs/get-started/install).
 
 2. **Firebase Project:** Set up a Firebase project. You'll need this for Firestore and Remote Config.
 
